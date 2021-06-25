@@ -11,7 +11,7 @@ Python : 3.7
 | ------------- | ------------- |
 | 1. meanshift_controller.py  |  Using Meanshift to track object  | 
 | 2. boudingbox_colordetect_controller.ipynb  | Using Blue-Red Color Detection with Keyboard-Controller  |
-| 3. color_detection_controller.py  | Using Color detect for Detect with 2 objects- one is X-Y axis, two is shot  |
+| 3. color_detection_controller.py  | Using Color(Green-Blue) detect for Detect with 2 objects- one is X-Y axis, two is shot  |
 
 
 Original Code
