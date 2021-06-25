@@ -7,14 +7,14 @@ This code is a part of https://github.com/watcharayaowapong/appZap project using
 ## File Description
 Python : 3.7
 
-| File  | Description | Credit |
-| ------------- | ------------- |
-| meanshift_controller.py  |  Using Meanshift to track object  |  Class14_Aj.Thitirat TheSensei  | 
-| boudingbox_colordetect_controller.ipynb  | Using Blue-Red Color Detection with Keyboard-Controller  |  https://github.com/GM1957/python-short-projects/tree/master/air-drum-with-opencv   | 
-| color_detection_controller.py  | Using Color detect for Detect with 2 objects- one is X-Y axis, two is shot  |  https://github.com/Shahriar-Ferdoush/Game-Control-with-OpenCV-and-Python-3.8   | 
-
 | File  | Description |
 | ------------- | ------------- |
-| meanshift_controller.py  |  Using Meanshift to track object  | 
-| boudingbox_colordetect_controller.ipynb  | Using Blue-Red Color Detection with Keyboard-Controller  |
-| color_detection_controller.py  | Using Color detect for Detect with 2 objects- one is X-Y axis, two is shot  |
+| 1. meanshift_controller.py  |  Using Meanshift to track object  | 
+| 2. boudingbox_colordetect_controller.ipynb  | Using Blue-Red Color Detection with Keyboard-Controller  |
+| 3. color_detection_controller.py  | Using Color detect for Detect with 2 objects- one is X-Y axis, two is shot  |
+
+
+Original Code
+1. Class14_Aj.Thitirat TheSensei
+2. https://github.com/GM1957/python-short-projects/tree/master/air-drum-with-opencv
+3. https://github.com/Shahriar-Ferdoush/Game-Control-with-OpenCV-and-Python-3.8
